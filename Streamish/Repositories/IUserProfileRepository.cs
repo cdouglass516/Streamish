@@ -1,4 +1,5 @@
 ﻿using Streamish.Models;
+using Streamish.Models.ViewModels;
 using System.Collections.Generic;
 
 namespace Streamish.Repositories
@@ -10,5 +11,6 @@ namespace Streamish.Repositories
         UserProfile Edit(UserProfile user);
         List<UserProfile> GetAll();
         UserProfile GetById(int id);
+        UserProfileVideo GetByIdWithVideosAndComments(int id);
     }
 }

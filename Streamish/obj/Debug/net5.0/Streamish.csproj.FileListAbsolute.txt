@@ -50,3 +50,6 @@ C:\Users\cdoug\source\repos\Streamish\Streamish\obj\Debug\net5.0\Streamish.dll
 C:\Users\cdoug\source\repos\Streamish\Streamish\obj\Debug\net5.0\ref\Streamish.dll
 C:\Users\cdoug\source\repos\Streamish\Streamish\obj\Debug\net5.0\Streamish.pdb
 C:\Users\cdoug\source\repos\Streamish\Streamish\obj\Debug\net5.0\Streamish.genruntimeconfig.cache
+C:\Users\cdoug\source\repos\Streamish\Streamish\bin\Debug\net5.0\client\package-lock.json
+C:\Users\cdoug\source\repos\Streamish\Streamish\bin\Debug\net5.0\client\package.json
+C:\Users\cdoug\source\repos\Streamish\Streamish\bin\Debug\net5.0\client\public\manifest.json
